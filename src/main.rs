@@ -1,3 +1,5 @@
+mod single_line;
+
 fn main() {
-    println!("Hello, world!");
+    single_line::single_line_example();
 }
